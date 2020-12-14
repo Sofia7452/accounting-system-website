@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/accounting-system-website/static/css/main.c94e95db.chunk.css",
+    "main.js": "/accounting-system-website/static/js/main.acb85a57.chunk.js",
+    "main.js.map": "/accounting-system-website/static/js/main.acb85a57.chunk.js.map",
+    "runtime-main.js": "/accounting-system-website/static/js/runtime-main.bc69fa46.js",
+    "runtime-main.js.map": "/accounting-system-website/static/js/runtime-main.bc69fa46.js.map",
+    "static/js/2.dd9a6647.chunk.js": "/accounting-system-website/static/js/2.dd9a6647.chunk.js",
+    "static/js/2.dd9a6647.chunk.js.map": "/accounting-system-website/static/js/2.dd9a6647.chunk.js.map",
+    "index.html": "/accounting-system-website/index.html",
+    "precache-manifest.3157e2ee3bd1adadcf3bacbac1035e26.js": "/accounting-system-website/precache-manifest.3157e2ee3bd1adadcf3bacbac1035e26.js",
+    "service-worker.js": "/accounting-system-website/service-worker.js",
+    "static/css/main.c94e95db.chunk.css.map": "/accounting-system-website/static/css/main.c94e95db.chunk.css.map",
+    "static/js/2.dd9a6647.chunk.js.LICENSE.txt": "/accounting-system-website/static/js/2.dd9a6647.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc69fa46.js",
+    "static/js/2.dd9a6647.chunk.js",
+    "static/css/main.c94e95db.chunk.css",
+    "static/js/main.acb85a57.chunk.js"
+  ]
+}
