@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/accounting-system/static/css/main.c94e95db.chunk.css",
+    "main.js": "/accounting-system/static/js/main.fb9d45de.chunk.js",
+    "main.js.map": "/accounting-system/static/js/main.fb9d45de.chunk.js.map",
+    "runtime-main.js": "/accounting-system/static/js/runtime-main.25ddc2cd.js",
+    "runtime-main.js.map": "/accounting-system/static/js/runtime-main.25ddc2cd.js.map",
+    "static/js/2.b84f003f.chunk.js": "/accounting-system/static/js/2.b84f003f.chunk.js",
+    "static/js/2.b84f003f.chunk.js.map": "/accounting-system/static/js/2.b84f003f.chunk.js.map",
+    "index.html": "/accounting-system/index.html",
+    "precache-manifest.0209459a268a8b4e19adf24ee47dd271.js": "/accounting-system/precache-manifest.0209459a268a8b4e19adf24ee47dd271.js",
+    "service-worker.js": "/accounting-system/service-worker.js",
+    "static/css/main.c94e95db.chunk.css.map": "/accounting-system/static/css/main.c94e95db.chunk.css.map",
+    "static/js/2.b84f003f.chunk.js.LICENSE.txt": "/accounting-system/static/js/2.b84f003f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25ddc2cd.js",
+    "static/js/2.b84f003f.chunk.js",
+    "static/css/main.c94e95db.chunk.css",
+    "static/js/main.fb9d45de.chunk.js"
+  ]
+}
